@@ -1,6 +1,6 @@
 # Mentors
 Mentors Login Signup Backend
-# For Node_Modules
+# For Backend Node_Modules
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
